@@ -1,41 +1,38 @@
-# Hello World with React boilerplate
-<p>
-  <a href="https://gitpod.io#https://github.com/4GeeksAcademy/react-hello.git"><img src="https://raw.githubusercontent.com/4GeeksAcademy/react-hello/master/open-in-gitpod.svg?sanitize=true" />
-  </a>
+<p align="center">
+	<img
+		width="300"
+		alt="4Geeks Academy"
+		src="https://github.com/4GeeksAcademy/About-4Geeks-Academy/blob/master/site/static/background_art.jpg?raw=true">
 </p>
 
-This template is similar to create-react-app but it's meant for 4Geeks Academy students.
 
-##### Download the boilerplate using git
+<h1 align="center">Welcome to 4Geeks Academy</h1>
 
-```
-$ git clone https://github.com/4GeeksAcademy/react-hello.git
-$ cd react-hello
-```
 
-##### and install the npm package:
-```
-$ npm install
-```
+<h3 align="center">&lt;StarWars blog database&gt;</h3>
 
-## Start coding!
+## Content
 
-For Windows, Mac, Linux or Gitpod, start the webpack server with live reload:
-- `$ npm run start`
+1. Language
+2. Project instructions
 
-You can update the `styles/index.scss` or `js/index.js` depending on your needs.
-Add more files into your, `./src/js/components` or styles folder as you need them.
+## 👩‍💻Language
+<p>This project contains:</p>
 
-## Publish your website!
+<ol>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>REACT-JS</li>
+    <li>JAVASCRIPT</li>
+</ol>
 
-This boilerplate is 100% compatible with the free [github pages](https://pages.github.com/) and [vercel](https://vercel.com/) hosting.
+## 📝Proyect instructions 
+<ul>
+    <li>You app needs to look <a href="https://raw.githubusercontent.com/breatheco-de/exercise-todo-list/master/preview.gif">like this</a>.</li>
+    <li>The tasks are added when the user press enter on the keyboard or you can have your own button.</li>
+    <li>The delete icon shows only when the task is hovered.</li>
+    <li>The use can add as many tasks as it wants.</li>
+    <li>When there is no tasks the list should "No tasks, add a task"</li>
+    <li>There is no way to update a task, the user will ahve to delete and create again.</li>
+</ul>
 
-It takes just 2 minutes to deploy, [click here to start the process](https://github.com/4GeeksAcademy/react-hello/blob/master/docs/DEPLOY.md).
-
-## Other features
-
-- Automatic Code Formatting: Use of [Prettier](https://prettier.io/) for automatic code indentation and formatting.
-- Error reporting: Use of [eslint](https://eslint.org/) for better error reporting.
-- Hot Deploy: Use of [Webpack Development Server](https://webpack.js.org/configuration/dev-server/) for hot deploy and live reload.
-- One-command publish of the code to github pages with `npm run deploy:github`.
-- Babel 7 (really fast).
